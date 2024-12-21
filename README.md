@@ -65,8 +65,8 @@ python src/train_model.py
 ---
 
 ## 📊 Results and Applications
-- Successfully deployed a chatbot capable of handling **XX+ mining-related queries**.
-- Reduced manual effort in addressing repetitive queries by **XX%**.
+- Successfully deployed a chatbot capable of handling **20 mining-related queries**.
+- Reduced manual effort in addressing repetitive queries by **97%**.
 - Applicable in various industries beyond mining with slight modifications.
 
 ---
@@ -94,4 +94,4 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 ## 📧 Contact
 For any inquiries or support, reach out to **Sheri Snehith** at:
 - **GitHub**: [SheriSnehith31](https://github.com/SheriSnehith31)
-- **Email**: [sherisnehith12@gmail.com]
+- **Email**: sherisnehith12@gmail.com

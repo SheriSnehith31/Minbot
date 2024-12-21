@@ -94,4 +94,4 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 ## 📧 Contact
 For any inquiries or support, reach out to **Sheri Snehith** at:
 - **GitHub**: [SheriSnehith31](https://github.com/SheriSnehith31)
-- **Email**: [Your Email Address]
+- **Email**: [sherisnehith12@gmail.com]

@@ -1,8 +1,7 @@
 
 # MinBot - Mining Chatbot
 
-**MinBot** is an innovative chatbot designed specifically for the mining industry. 
-This project was developed as part of the **Smart India Hackathon** to address real-world problems faced in mining operations by providing intelligent and automated solutions.
+**MinBot** was developed as part of the **Smart India Hackathon** to address challenges in mining operations. The project aims to streamline communication, data retrieval, and problem-solving in the mining industry by offering an interactive, AI-powered chatbot. MinBot is designed to provide real-time, automated solutions to common issues faced by workers and stakeholders, including equipment status, safety protocols, and operational inquiries. By utilizing artificial intelligence, it enhances efficiency, reduces operational downtime, and improves decision-making processes in the mining sector.
 
 ---
 
@@ -17,17 +16,14 @@ This project was developed as part of the **Smart India Hackathon** to address r
 ## 📂 Project Structure
 ```
 MinBot/
-├── dataset/                 # Training data for chatbot development
-├── models/                  # Pretrained and custom NLP models
-├── src/                     # Core implementation files
-│   ├── chatbot.py           # Chatbot logic and functionality
-│   ├── intent_recognition.py # Intent detection and response generation
-│   ├── data_preprocessing.py # Preprocessing scripts for input data
-├── utils/                   # Utility functions for the project
-│   ├── logger.py            # Logging utilities
-│   ├── helpers.py           # Helper functions for data processing
-├── README.md                # Project documentation
-└── requirements.txt         # Python dependencies
+│
+├── botinterface.html    # HTML file for the chatbot interface
+├── logo.png             # Logo image file
+├── mainpage.html        # Main page HTML file
+├── script.js            # JavaScript for the chatbot and main page functionality
+├── styles.css           # CSS for styling the chatbot and main page
+└── README.md            # Project documentation
+
 ```
 
 ---
